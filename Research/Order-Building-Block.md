@@ -14,4 +14,29 @@ Here are some key functionalities that are essential for e-commerce websites for
 
 - **Customer Reviews and Ratings** : Users can leave feedback and ratings for products or sellers, which helps others make informed decisions.
 
-- **Customer or Seller Support** : 
+- **Customer or Seller Support** : To provide the smooth experience its essential to provide the support to customers/sellers on their concern or complaints  through chat, email, or phone to address them.
+
+- **Secure Payment Gateway** : e-Commerce platforms integrate secure payment gateways that enable users to make online payments using various methods, such as credit cards, debit cards, digital wallets, or other electronic payment options. And creating the secure payment to the sellers as well.
+
+There are various other aspects which play essential role in an e-commerce platform and would be researching throughout the article.
+
+
+### Landing Page for the E-Commerce Platform
+
+The primary goal of the e-commerce platform's landing page is to convert the visitors into the potential customers. It should not flooded with lots of thing it should contain specific decided things to target the users to make the desired action, it should promote clarity and simplicity.
+Like they should have product catogries so that user can select it, browse the products, select the product and make the order. Cart functionality on the top so that user can find it easily and manage thier orders.
+
+![Landing Page](assets/image.png)
+
+The different essential components of the e-commerce websites:
+
+1. **Product Category Display** : Categorizing products makes it easier for customers to find what they are looking for. It organizes products into logical groups, reducing the effort required to navigate through a vast product catalog. A well-structured category display enhances user experience and encourages visitors to explore more products. 
+![Product cateogory](assets/Product-Category-Display.png)
+
+
+1. **Cart Functionality** : It refers to the capability of the platform to allow users to add products to a virtual shopping cart as they browse and shop for items. It should be clear icon visible from every screen in the platform so that user can jump into whenever they want to place or manage the products in the cart. The cart or shopping bag's symbol should be clear and concise. It should show the number of items added in the cart, so that user can see how many items they have added.
+![Alt text](assets/Cart.png)
+
+
+
+
