@@ -36,6 +36,42 @@ The different essential components of the e-commerce websites:
 
 1. **Cart Functionality** : It refers to the capability of the platform to allow users to add products to a virtual shopping cart as they browse and shop for items. It should be clear icon visible from every screen in the platform so that user can jump into whenever they want to place or manage the products in the cart. The cart or shopping bag's symbol should be clear and concise. It should show the number of items added in the cart, so that user can see how many items they have added.
 ![Alt text](assets/Cart.png)
+They can checkout to the cart perform order managment like increasing the quantity of the item, deleting the particular item and can save cart for later and finally place the order.
+![Alt text](assets/Functions.png)
+
+
+1. **Different Screens of E-Commerce Platform** : The goal of different checkout screens is guide the users whether to login/sign-up, purchase product and many more. There are various checkout screens which are as follows : 
+- 
+
+
+
+
+4. **Discount and Coupon Startegies**: Coupons and discounts play a crucial and multifaceted role in e-commerce platforms, benefiting both customers and businesses, it helps in _Customer Attraction and Acquisition_.
+![Discount/Coupon](assets/discount.png)
+
+There are various discount strategies that can be used for the growth of D2C, and are as follows:
+
+- _First Time Shopper Discount_ : It helps to  significantly impact customer acquisition and long-term business success, as it helps in reducing the purchase barrier new customers might be hesitant to buy from an unfamiliar online store, but a special discount or promotion can provide the extra motivation needed to try out the platform. Almost all the platforms from food delievery to shopping uses first time shopper discount to get the user/customer onboard.
+![First-Order-Discount](assets/first.png)
+
+- _Refral Discount Codes_ : It is highly effective marketing strategy with numerous benefits.It basically comes under word-of-mouth marketing, referral discounts often lead to higher conversion rates. New customers who come through referrals are more likely to make a purchase because they already have trust in the recommendation and have some extra discount to make the first order. Referral programs can offer personalized incentives to both referrers and referees, making the offer more relevant and appealing to each individual.
+![Referal board](assets/Refral-Program.png)
+
+- _Product bundling offers_ : Product bundling encourages customers to purchase more items together in a single transaction. By offering related or complementary products as a bundle, the platform can increase the average order value, leading to higher revenue per customer. And can be helpful for promoting new products and provding them comparance with three products individual vs three in bundle and highlighting the difference, we can make the customers to buy three products where they came to buy just one.
+![Product-Bundling-Offer](assets/Product-Bundling.png)
+
+- _Flash sale offers_ : Providing flash sale offers on an e-commerce platform is important for several reasons, as it can create a sense of urgency and excitement among customers, leading to increased sales and other valuable outcomes. It creates a sense of urgency and scarcity. Customers are more motivated to make a purchase immediately to secure the deal before it expires or runs out of stock. Customers who may have been hesitant to make a purchase before are incentivized to do so during the flash sale period. It also helps in promotion of specific products, creating buzz and excitemnet and analyzing the customer insights.
+![Flash Sale](Flash-Sale.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
