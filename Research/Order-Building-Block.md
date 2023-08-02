@@ -41,7 +41,20 @@ They can checkout to the cart perform order managment like increasing the quanti
 
 
 1. **Different Screens of E-Commerce Platform** : The goal of different checkout screens is guide the users whether to login/sign-up, purchase product and many more. There are various checkout screens which are as follows : 
-- 
+- _Login/Sign Up_ 
+
+- _Order Management_
+
+- _Notifications of Order/Shipping/Delievery Information_
+
+- _Loyalty Points collection and to Redeem it_
+
+- _User Profile_
+
+- _Discounts/Deal section_
+
+- _Cart/Shopping Bag_
+
 
 
 
@@ -61,7 +74,20 @@ There are various discount strategies that can be used for the growth of D2C, an
 ![Product-Bundling-Offer](assets/Product-Bundling.png)
 
 - _Flash sale offers_ : Providing flash sale offers on an e-commerce platform is important for several reasons, as it can create a sense of urgency and excitement among customers, leading to increased sales and other valuable outcomes. It creates a sense of urgency and scarcity. Customers are more motivated to make a purchase immediately to secure the deal before it expires or runs out of stock. Customers who may have been hesitant to make a purchase before are incentivized to do so during the flash sale period. It also helps in promotion of specific products, creating buzz and excitemnet and analyzing the customer insights.
-![Flash Sale](Flash-Sale.png)
+![Flash Sale](assets/Flash-Sale.png)
+
+- _Customer Loyalty Points_ : Customer loyalty points can act as a essential for the several e-commerce because customer loyalty points incentivize customers to return to the e-commerce platform for future purchases. When customers earn points with every purchase, they are more likely to come back to redeem those points, leading to increased retention rates and repeat business.
+![Alt text](assets/Loyalty.png)
+
+
+![Alt text](image-1.png)
+
+
+
+
+
+
+
 
 
 
