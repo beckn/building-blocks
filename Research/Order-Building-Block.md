@@ -46,7 +46,7 @@ They can checkout to the cart perform order managment like increasing the quanti
 
 
 1. **Different Screens of E-Commerce Platform** : The goal of different checkout screens is guide the users whether to login/sign-up, purchase product and many more. There are various checkout screens which are as follows : 
-- _Login/Sign Up_ 
+- _Login/Sign Up_ : This page is used 
 
 - _Order Management_
 
@@ -86,6 +86,7 @@ There are various discount strategies that can be used for the growth of D2C, an
 
 
 - _Customer Loyalty Points_ : Customer loyalty points can act as a essential for the several e-commerce because customer loyalty points incentivize customers to return to the e-commerce platform for future purchases. When customers earn points with every purchase, they are more likely to come back to redeem those points, leading to increased retention rates and repeat business.
+<<<<<<< HEAD
 ![image](https://github.com/monishkajha17/building-blocks/assets/109274817/d9b41d1b-8fd9-4c86-a051-5239940c85d3)
 
 
@@ -96,6 +97,12 @@ There are various discount strategies that can be used for the growth of D2C, an
 
 
 
+=======
+![Loyalty](assets/Loyalty.png)
+
+
+![beckn order plus](assets/image-1.png)
+>>>>>>> 14c2fba (Updated)
 
 
 
